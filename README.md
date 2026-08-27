@@ -273,9 +273,9 @@ industrial-carbon-emission-prediction/
 │
 ├── carbon_emission_model.pkl
 │
-├── model_comparison.csv
-│
-├── prediction_results.csv
+├── results/
+│   └── model_comparison.csv
+│   └── prediction_results.csv
 │
 ├── requirements.txt
 │
